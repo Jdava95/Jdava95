@@ -15,8 +15,7 @@ const info = {
             css: ["vuetify", "bootstrap", "flex", "grid"],
         },
         backEnd: {
-            js: ["node", "express"],
-            python: ["flask"]
+            js: ["node", "express", "koa", "adonis"]
         },
         databases: ["mongoDB", "MySql", "sqlite", "postgreSQL"],
         misc: ["Firebase"]
