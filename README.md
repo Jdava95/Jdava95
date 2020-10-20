@@ -33,7 +33,8 @@ const info = {
     askMeAbout: ["web dev"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "Nuxt", "Vue-router", "Vuex"],
+            js: ["Vue", "Nuxt", "Vue-router", "Vuex",
+                 "React", React-router", "Redux"],
             css: ["vuetify", "bootstrap", "flex", "grid"],
         },
         backEnd: {
