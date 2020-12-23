@@ -34,7 +34,7 @@ const info = {
     technologies: {
         frontEnd: {
             js: ["Vue", "Nuxt", "Vue-router", "Vuex",
-                 "React", React-router", "Redux"],
+                 "React", "React-router", "Redux"],
             css: ["vuetify", "bootstrap", "flex", "grid"],
         },
         backEnd: {
