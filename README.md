@@ -33,12 +33,13 @@ const info = {
     askMeAbout: ["web dev"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "Nuxt", "Vue-router", "Vuex",
-                 "React", "React-router", "Redux"],
-            css: ["vuetify", "bootstrap", "flex", "grid"],
+            js: ["React", "Redux", "devtools"
+            "Vue", "Nuxt", "Vuex",],
+            css: ["vuetify", "bootstrap", "flex", "grid", "element-ui", "ant"],
         },
         backEnd: {
-            js: ["node", "express", "koa", "adonis"]
+            js: ["node", "express", "koa", "adonis"],
+            java: ["spring"]
         },
         databases: ["mongoDB", "MySql", "sqlite", "postgreSQL"],
         misc: ["Firebase"]
