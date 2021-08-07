@@ -39,7 +39,6 @@ const info = {
         },
         backEnd: {
             js: ["node", "express", "koa", "adonis"],
-            java: ["spring"]
         },
         databases: ["mongoDB", "MySql", "sqlite", "postgreSQL"],
         misc: ["Firebase"]
