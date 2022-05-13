@@ -15,7 +15,7 @@
 ```javascript
 const person = {
     name: "Javid",
-    age: "25",
+    age: "27",
     country: "Russia",
     city: "Moscow",
     timeZone: {
@@ -33,9 +33,8 @@ const info = {
     askMeAbout: ["web dev"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux", "devtools"
-            "Vue", "Nuxt", "Vuex",],
-            css: ["vuetify", "bootstrap", "flex", "grid", "element-ui", "ant"],
+            js: ["React", "Redux", "devtools", "webpack", "typescript", "project-config"],
+            css: ["bootstrap", "flex", "grid", "element-ui", "ant-design", "styled-components"],
         },
         backEnd: {
             js: ["node", "express", "koa", "adonis"],
