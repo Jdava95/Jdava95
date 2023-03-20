@@ -2,7 +2,7 @@
 
 <p>
 
-<em>Senior Software developer at <a href="https://www.sberbank.ru/ru/person">Sberbank</a></em>
+<em>Senior Software developer at <a href="https://www.raiffeisen.ru/">Raiffeisen Bank</a></em>
     
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/javid-alimli/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_javedius/)
@@ -29,17 +29,17 @@ const person = {
 
 ```javascript
 const info = {
-    code: ["Javascript", "Typescript", "SQL"],
-    askMeAbout: ["web dev"],
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["WEB DEV"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux", "devtools", "webpack", "typescript", "project-config"],
-            css: ["bootstrap", "flex", "grid", "element-ui", "ant-design", "styled-components"],
+            js: ["React", "Redux", "Recoil", "Effector", "Toolkit", "SWR", "DevTools", "Webpack", "Vite", "TypeScript", "Project-Config"],
+            css: ["Bootstrap", "Flex", "Grid", "Element-UI", "Ant-Design", "Styled-components", "SCSS"],
         },
         backEnd: {
             js: ["node", "express", "koa", "adonis"],
         },
-        databases: ["mongoDB", "MySql", "sqlite", "postgreSQL"],
+        databases: ["MongoDB", "MySql", "SQLite", "PostgreSQL"],
         misc: ["Firebase"]
     }
 };
