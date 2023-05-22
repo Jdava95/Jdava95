@@ -37,10 +37,9 @@ const info = {
             css: ["Bootstrap", "Flex", "Grid", "Element-UI", "Ant-Design", "Styled-components", "SCSS"],
         },
         backEnd: {
-            js: ["node", "express", "koa", "adonis"],
+            js: ["node.js", "express.js", "koa.js", "nest.js"],
         },
         databases: ["MongoDB", "MySql", "SQLite", "PostgreSQL"],
-        misc: ["Firebase"]
     }
 };
 ```
