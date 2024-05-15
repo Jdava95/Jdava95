@@ -1,8 +1,8 @@
-## Hi there 👋, I'm Javid
+## Hello there 👋, I'm Javid
 
 <p>
 
-<em>Senior Software developer at <a href="https://www.raiffeisen.ru/">Raiffeisen Bank</a></em>
+<em>Software developer at <a href="https://www.raiffeisen.ru/">Raiffeisen Bank</a></em>
     
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/javid-alimli/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_javedius/)
@@ -15,7 +15,7 @@
 ```javascript
 const person = {
     name: "Javid",
-    age: "27",
+    age: "29",
     country: "Russia",
     city: "Moscow",
     timeZone: {
@@ -29,15 +29,15 @@ const person = {
 
 ```javascript
 const info = {
-    code: ["Javascript", "Typescript"],
-    askMeAbout: ["WEB DEV"],
+    code: ["Javascript", "Python"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Redux", "Recoil", "Effector", "Toolkit", "SWR", "DevTools", "Webpack", "Vite", "TypeScript", "Project-Config"],
-            css: ["Bootstrap", "Flex", "Grid", "Element-UI", "Ant-Design", "Styled-components", "SCSS"],
+        frontend: {
+            js: ["React", "SWR", "DevTools", "Webpack", "Vite", "TypeScript", "Project-Config", "Axios"],
+            css: ["Flex", "Grid", "Styled-components", "SCSS"],
+            state-managers: ["Redux", "Recoil", "Effector", "Toolkit",]
         },
-        backEnd: {
-            js: ["node.js", "express.js", "koa.js", "nest.js"],
+        backend: {
+            js: ["python", "sqlalchemy", "asyncio", "fastapi"],
         },
         databases: ["MongoDB", "MySql", "SQLite", "PostgreSQL"],
     }
